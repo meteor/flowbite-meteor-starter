@@ -1,6 +1,6 @@
 This is a [Meteor.js](https://meteor.com/) project.
 
-Live demo: N/A
+Live demo: [flowbit-meteor-starter.meteorapp.com](https://flowbit-meteor-starter.meteorapp.com/)
 
 It also includes:
 
